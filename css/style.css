@@ -1,0 +1,27 @@
+.Quotes {
+    text-align: center;
+    color: black;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    margin-block: 53.6px;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    margin-block: 35px;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+
+button:hover {
+    background-color: green;
+}
